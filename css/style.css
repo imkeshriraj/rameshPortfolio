@@ -507,7 +507,7 @@ ol {
 .main-menu {
 	list-style: none;
 	float: right;
-	display: none;
+	/* display: none; */
 }
 
 .main-menu li {
