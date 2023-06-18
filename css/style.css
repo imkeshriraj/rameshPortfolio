@@ -907,10 +907,22 @@ ol {
 	padding: 0 64px;
 	
 }
-.portfolio-box img{
+.portfolio-box .nature{
 	
     width: 100%;
-    height: 350px;
+    /* height: 400px; */
+
+}
+.portfolio-box .weddings{
+	
+    width: 100%;
+    /* height: 350px; */
+
+}
+.portfolio-box .fashion{
+	
+    width: 100%;
+    /* height: 350px; */
 
 }
 .portfolio-box h6 {
